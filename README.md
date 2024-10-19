@@ -6,12 +6,17 @@ This project displays characters from the Rick and Morty series based on the epi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/rick-and-morty-character-feed.git
-   Navigate to the project directory:cd imagefeed
+   git clone https://github.com/Abhishekmalakar/Assignment-Cogitix.git
+   
+## Navigate to the project directory:
+cd imagefeed
+
 ## Project Setup:
 npm install
-## start the development server:
+ or yarn 
 
+## start the development server:
 npm start
-Open http://localhost:3000 to view the app in the browser.
+
+## Open http://localhost:3000 to view the app in the browser.
 
